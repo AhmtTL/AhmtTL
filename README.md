@@ -1,4 +1,3 @@
-D:\Diğer Dosyalar\Vesikalıklar
 [![MasterHead](https://www.google.com/imgres?q=g%C3%BCzel%20bir%20profil%20arka%20plan%20foto%C4%9Fraf%C4%B1%20yaz%C4%B1l%C4%B1m&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fshutterstock%2Fvideos%2F1008397633%2Fthumb%2F1.jpg%3Fip%3Dx480&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Ftr%2Fvideo%2Fclip-1008397633-programming-code-abstract-technology-background-footageconcept-software&docid=hcJJhktPT1DJWM&tbnid=YLqfUBJqQrWuNM&vet=12ahUKEwiOuK-o0uCSAxXH1AIHHf7dNsoQnPAOegQIIhAB..i&w=480&h=253&hcb=2&ved=2ahUKEwiOuK-o0uCSAxXH1AIHHf7dNsoQnPAOegQIIhAB)
 
 
@@ -64,3 +63,5 @@ D:\Diğer Dosyalar\Vesikalıklar
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a&" alt="a" /></p>
 
+
+![snake gif](https://github.com/AhmtTL/AhmtTL/blob/output/github-contribution-grid-snake.gif)
