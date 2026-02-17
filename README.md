@@ -4,24 +4,28 @@
   <img src="https://github.com/AhmtTL/AhmtTL/blob/main/img/Github%20Banner.jpg" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmtTL&color=0e75b6&style=flat" />
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=💻+C%23;🟣+.NET;⚡+Blazor;🌐+HTML;🎨+CSS;🐍+Python;🗄+SQL;🐘+PHP;🔥+Laravel;⚛+React" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h1 align="left">
+  <img src="https://github.com/user-attachments/assets/86595d72-dee3-4aac-bca8-e2c90d328726" width="32" height="32" style="vertical-align:middle; margin-bottom:5px;" />
+  <span> About Me</span>
+</h1>
 
-Backend-focused Software Developer specialized in C#, .NET and scalable API development.  
-Experienced in clean architecture, microservices and cloud-ready systems.
+
+I am a passionate .NET Developer building scalable web applications and API solutions. Focused on writing clean, maintainable, and efficient code.
+I am currently experimenting with microservices architecture and Azure.
+Looking for opportunities to contribute and grow. Feel free to connect!
 
 ---
 
-## 🔗 Connect
+<h1 align="left">
+  <img src="https://github.com/user-attachments/assets/e7b4386b-d4a3-45cb-8f66-b6aa858b75c8" width="32" height="32" style="vertical-align:middle; margin-bottom:5px;" />
+  <span> Connect</span>
+</h1>
 
 <p align="left">
 <a href="https://linkedin.com/in/telliogluahmet/" target="blank">
@@ -32,6 +36,7 @@ Experienced in clean architecture, microservices and cloud-ready systems.
 ---
 
 # 💻 Tech Stack
+
 
 ## Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -58,30 +63,32 @@ Experienced in clean architecture, microservices and cloud-ready systems.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
+# GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmtTL&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://ghchart.rshah.org/043616/AhmtTL" width="100%" alt="GitHub Contributions Chart"  />
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmtTL&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmtTL&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmtTL&theme=github_dark" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmtTL&theme=github-compact&hide_border=true" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmtTL&theme=github_dark" />
 </p>
 
 ---
 
-# 🏆 Achievements
+# ⏱ Productivity Insights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmtTL&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+<p align="left">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmtTL&theme=github_dark" />
 </p>
+
+
+
