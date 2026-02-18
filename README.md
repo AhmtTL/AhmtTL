@@ -1,12 +1,12 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/AhmtTL/AhmtTL/blob/main/img/Github%20Banner.jpg" />
+  <img src="https://github.com/AhmtTL/AhmtTL/blob/main/img/Github%20Banner_3.jpg" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=💻+C%23;🟣+.NET;⚡+Blazor;🌐+HTML;🎨+CSS;🐍+Python;🗄+SQL;🐘+PHP;🔥+Laravel;⚛+React" />
-</div>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=02260EF3&center=true&vCenter=true&width=800&lines=%7C+C%23+%7C+.NET+%7C+Blazor+%7C;%7C+HTML+%7C+CSS+%7C+QT+Designer+%7C;%7C+Python+%7C+SQL+%7C;%7C+PHP+%7C+Laravel+%7C+React+%7C)](https://git.io/typing-svg)
 
 ---
 
