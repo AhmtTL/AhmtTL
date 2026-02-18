@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/AhmtTL/AhmtTL/blob/main/img/Github%20Banner_3.jpg" />
+  <img src="img/Github_Banner_3.jpg" />
 </p>
 
 
